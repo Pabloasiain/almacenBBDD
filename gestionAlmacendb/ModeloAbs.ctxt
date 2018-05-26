@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ModeloAbs
+comment1.params=
+comment1.target=ModeloAbs()
+comment2.params=p
+comment2.target=boolean\ insertarProducto(Producto)
+comment3.params=codigo
+comment3.target=boolean\ borrarProducto(int)
+comment4.params=codigo
+comment4.target=Producto\ buscarProducto(int)
+comment5.params=
+comment5.target=void\ listarProductos()
+comment6.params=nuevo
+comment6.target=boolean\ modificarProducto(Producto)
+comment7.params=
+comment7.target=java.util.Iterator\ getIterator()
+numComments=8
